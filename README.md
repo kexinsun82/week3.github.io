@@ -14,6 +14,5 @@ Kexin's website
 
 ### Credits & Collaborators
   -  Kexin Sun
-    
-### Add a license
-- &copy; Kexin Sun
+
+<p align= "center">&copy; Kexin Sun</p>
