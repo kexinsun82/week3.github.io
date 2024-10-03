@@ -1,0 +1,150 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  /* background: #fff; */
+  background: #fffffe;
+  color: #594a4e;
+}
+
+a:link {
+  color: #F00;
+}
+
+a:visited {
+  color: #594a4e;
+}
+
+a:hover {
+  background-color: #ff8ba7;
+  color: #FFF;
+}
+
+a:active {
+  color: black;
+}
+
+.logo {
+  font-size: 36px;
+}
+
+#top_navlist li {
+  display: inline;
+  list-style-type: circle;
+  padding-right: 20px;
+  border-left: 1px solid #594a4e;
+  line-height: 1em;
+  margin: 0.5em 0.5em;
+  padding: 0.5em 0.5em;
+}
+#top_navlist li:first-child {
+  border-left: none;
+}
+
+#lower_navlist li {
+  display: inline;
+  list-style-type: circle;
+  padding-right: 20px;
+  border-left: 1px solid #594a4e;
+  line-height: 1.1em;
+  margin: 0.5em 0.5em;
+  padding: 0.5em 0.5em;
+}
+#lower_navlist li:first-child {
+  border-left: none;
+}
+
+#legal_navlist li {
+  display: inline;
+  list-style-type: circle;
+  padding-right: 20px;
+  border-left: 1px solid #594a4e;
+  line-height: 1.1em;
+  margin: 0.5em 0.5em;
+  padding: 0.5em 0.5em;
+}
+#legal_navlist li:first-child {
+  border-left: none;
+}
+
+.box {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ffc6c7;
+  color: #594a4e;
+  border-width: 1px;
+  /* border-color: black; */
+  /* border-style: solid; */
+  clear: both;
+}
+
+.nav {
+  margin: 10px;
+  padding: 10px;
+  background-color: #faeee7;
+  border-width: 1px;
+  border-color: black;
+  /* border-style: solid; */
+} 
+
+/* new style */
+.deadnav {
+  color: #FFF;
+  background-color: #ff8ba7;
+}
+
+.left {
+  width: 20%;
+  margin: 10px;
+  padding: 10px;
+  background-color: #c3f0ca;
+  border-width: 1px;
+  border-color: black;
+  /* border-style: solid; */
+  float: left;
+}
+
+.centre {
+  width: 51%;
+  margin: 10px;
+  padding: 10px;
+  background-color: #faeee7;
+  border-width: 1px;
+  border-color: black;
+  /* border-style: solid; */
+  float: left;
+}
+
+.right {
+  width: 20%;
+  margin: 10px;
+  padding: 10px;
+  background-color: #c3f0ca;
+  border-width: 1px;
+  border-color: black;
+  /* border-style: solid; */
+  float: right;
+}
+
+.lower_nav {
+  margin: 10px;
+  padding: 10px;
+  /* background-color:#999; */
+  background-color:#ffc6c7;
+  border-width:1px;
+  border-color:black;
+  /* border-style:solid; */
+  clear:both;
+}
+
+.legal {
+  margin:10px;
+  padding:10px;
+  /* background-color:#999; */
+  background-color:#ffc6c7;
+  border-width:1px;
+  border-color: black;
+  /* border-style: solid; */
+  float: none;
+  clear: both;
+}
